@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MeiPai.iml" filepath="$PROJECT_DIR$/MeiPai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library-Common/library-Common.iml" filepath="$PROJECT_DIR$/library-Common/library-Common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library-JieCaoVideoPlayer/library-JieCaoVideoPlayer.iml" filepath="$PROJECT_DIR$/library-JieCaoVideoPlayer/library-JieCaoVideoPlayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library-VitamioRecorder/library-VitamioRecorder.iml" filepath="$PROJECT_DIR$/library-VitamioRecorder/library-VitamioRecorder.iml" />
+    </modules>
+  </component>
+</project>

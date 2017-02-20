@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="home_channel_name">
+        <item>热门</item>
+        <item>搞笑</item>
+        <item>美妆</item>
+        <item>美食</item>
+        <item>吃秀</item>
+        <item>音乐</item>
+        <item>吃秀</item>
+        <item>舞蹈</item>
+        <item>宝宝</item>
+        <item>明星名人</item>
+        <item>女神</item>
+        <item>宠物</item>
+        <item>男神</item>
+        <item>手工</item>
+        <item>穿秀</item>
+    </string-array>
+
+    <integer-array name="home_channel_id">
+        <item>1</item>
+        <item>13</item>
+        <item>27</item>
+        <item>59</item>
+        <item>423</item>
+        <item>62</item>
+        <item>63</item>
+        <item>18</item>
+        <item>16</item>
+        <item>19</item>
+        <item>6</item>
+        <item>31</item>
+        <item>450</item>
+        <item>460</item>
+    </integer-array>
+
+    <integer-array name="home_channel_type">
+        <item>1</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+    </integer-array>
+</resources>

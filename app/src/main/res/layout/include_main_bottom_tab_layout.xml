@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/nav_tab_height"
+    android:layout_alignParentBottom="true"
+    android:background="@color/colorPrimaryDark"
+    tools:showIn="@layout/activity_main">
+
+    <RelativeLayout
+        android:id="@+id/rl_tab_home"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center">
+
+        <ImageView
+            android:id="@+id/iv_tab_home"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_weight="1"
+            android:background="@drawable/ic_tab_home_selector"
+            android:scaleType="center" />
+
+        <TextView
+            android:id="@+id/tv_tab_home_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/iv_tab_home"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:text="@string/tab_home"
+            android:textColor="@color/main_tab_text_selector"
+            android:textSize="@dimen/small_size" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_tab_attention"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center">
+
+        <ImageView
+            android:id="@+id/iv_tab_attention"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_weight="1"
+            android:background="@drawable/ic_tab_attention_selector"
+            android:scaleType="center" />
+
+        <TextView
+            android:id="@+id/tv_tab_attention_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/iv_tab_attention"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:text="@string/tab_attention"
+            android:textColor="@color/main_tab_text_selector"
+            android:textSize="@dimen/small_size" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_tab_capture_video"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center">
+
+        <ImageView
+            android:id="@+id/iv_tab_capture_video"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/ic_tab_capture_video_selector"
+            android:scaleType="center" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_tab_find"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center">
+
+        <ImageView
+            android:id="@+id/iv_tab_find"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_weight="1"
+            android:background="@drawable/ic_tab_find_selector"
+            android:scaleType="center" />
+
+        <TextView
+            android:id="@+id/tv_tab_find_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/iv_tab_find"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:text="@string/tab_find"
+            android:textColor="@color/main_tab_text_selector"
+            android:textSize="@dimen/small_size" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_tab_mime"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center">
+
+        <ImageView
+            android:id="@+id/iv_tab_mime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_weight="1"
+            android:background="@drawable/ic_tab_mime_selector"
+            android:scaleType="center" />
+
+        <TextView
+            android:id="@+id/tv_tab_mime_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/iv_tab_mime"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:text="@string/tab_mime"
+            android:textColor="@color/main_tab_text_selector"
+            android:textSize="@dimen/small_size" />
+    </RelativeLayout>
+</LinearLayout>

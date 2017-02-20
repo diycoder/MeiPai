@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">美_拍</string>
+    <string name="tab_home">主页</string>
+    <string name="tab_attention">我的关注</string>
+    <string name="tab_find">发现</string>
+    <string name="tab_mime">我的</string>
+    <string name="press_again_exit">再按一次退出程序</string>
+    <string name="back">返回</string>
+    <string name="meipai_detail">美拍详情</string>
+    <string name="add_follow">加关注</string>
+    <string name="repost">转发</string>
+    <string name="share">分享</string>
+    <string name="mine">我</string>
+    <string name="no_login">未登录</string>
+    <string name="look_mine">立即登录看看我的个人主页</string>
+    <string name="draft">草稿箱</string>
+    <string name="meipai_college">美拍大学</string>
+    <string name="find_friend">找好友</string>
+    <string name="praise_friend">我赞过的美拍</string>
+    <string name="more_enjoy">让视频更好玩</string>
+    <string name="settting">设置</string>
+</resources>

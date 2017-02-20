@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff22202d</color>
+    <color name="colorPrimaryDark">#ff22202d</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="tab_home_text_press">#FF206F</color>
+    <color name="tab_home_text_normal">#A4A3A8</color>
+
+
+
+
+    <!-- Vitamio  Recoder -->
+    <color name="transgray">#33555555</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparent2">#50000000</color>
+
+
+    <color name="orange">#ffffdc7e</color>
+    <color name="grey">#ffd3d3d3</color>
+    <color name="yellow">#fffffbae</color>
+    <color name="list_item_pressed">#1A000000</color>
+
+
+
+
+
+
+
+
+
+    <!--==========================================================================================================-->
+    <color name="album_action_disable">#66000000</color>
+    <color name="album_bg_color">#ff0e0e10</color>
+    <color name="album_bottom_bg">#ff222026</color>
+    <color name="album_divider">#1effffff</color>
+    <color name="album_list_view_divider">#ff2b2b2b</color>
+    <color name="app_background">#ff2b2938</color>
+    <color name="bg_abs_popup_menu_item_pressed">#ffe6e6e6</color>
+    <color name="bg_activity_chat">#ff2b2938</color>
+    <color name="bg_dialog_tv_pressed">#ffa0a0a0</color>
+    <color name="bg_divider">#ffb9b9b9</color>
+    <color name="bg_host_user_normal">#ff17171b</color>
+    <color name="bg_host_user_press">#ff43404d</color>
+    <color name="black">#ff000000</color>
+    <color name="black00">#00000000</color>
+    <color name="black12">#1f000000</color>
+    <color name="black15">#26000000</color>
+    <color name="black20">#33000000</color>
+    <color name="black25">#3f000000</color>
+    <color name="black35">#59000000</color>
+    <color name="black40">#66000000</color>
+    <color name="black50">#7f000000</color>
+    <color name="black65">#ffb5b4ba</color>
+    <color name="black70">#b3000000</color>
+    <color name="black75">#bf000000</color>
+    <color name="black80">#cc000000</color>
+    <color name="black95">#f2000000</color>
+    <color name="blue">#ff0000ff</color>
+    <color name="camera_type_normal">#ffff206f</color>
+    <color name="cardview_dark_background">#ff424242</color>
+    <color name="cardview_light_background">#ffffffff</color>
+    <color name="cardview_shadow_end_color">#03000000</color>
+    <color name="cardview_shadow_start_color">#37000000</color>
+    <color name="color006ad9">#ff006ad9</color>
+    <color name="color008d68">#ff008d68</color>
+    <color name="color009e75">#ff009e75</color>
+    <color name="color00b389">#ff00b389</color>
+    <color name="color0394d8">#ff0394d8</color>
+    <color name="color08070b">#ff08070b</color>
+    <color name="color09807c">#ff09807c</color>
+    <color name="color0ba5a0">#ff0ba5a0</color>
+    <color name="color0d90ff">#ff0d90ff</color>
+    <color name="color111016">#ff111016</color>
+    <color name="color13111b">#ff13111b</color>
+    <color name="color16141f">#ff16141f</color>
+    <color name="color17a8ec">#ff17a8ec</color>
+    <color name="color191723">#ff191723</color>
+    <color name="color1a150d">#ff1a150d</color>
+    <color name="color1a1825">#ff1a1825</color>
+    <color name="color1a1825alpha100">#ff1a1825</color>
+    <color name="color1a1825alpha25">#401a1825</color>
+    <color name="color1a1825alpha40">#661a1825</color>
+    <color name="color1a1825alpha75">#c01a1825</color>
+    <color name="color1a1825alpha90">#e61a1825</color>
+    <color name="color1b1926">#ff1b1926</color>
+    <color name="color1b1926_alpha80">#cc1b1926</color>
+    <color name="color1b1926alpha95">#f21b1926</color>
+    <color name="color1b1a24">#ff1b1a24</color>
+    <color name="color1e1d29">#ff1e1d29</color>
+    <color name="color22202d">#ff22202d</color>
+    <color name="color24222f">#ff24222f</color>
+    <color name="color252330">#ff252330</color>
+    <color name="color262431">#ff242631</color>
+    <color name="color292735">#ff292735</color>
+    <color name="color2b2938">#ff2b2938</color>
+    <color name="color2f2d3c">#ff2f2d3c</color>
+    <color name="color312f3e">#ff312f3e</color>
+    <color name="color32303e">#ff32303e</color>
+    <color name="color33313d">#ff33313d</color>
+    <color name="color35235c">#ff35235c</color>
+    <color name="color35333f">#ff35333f</color>
+    <color name="color373644">#ff373644</color>
+    <color name="color383643">#ff383643</color>
+    <color name="color3d3b4a">#ff3d3b4a</color>
+    <color name="color3e3b4b">#ff3e3b4b</color>
+    <color name="color3e3c49">#ff3e3c49</color>
+    <color name="color3e3c4b">#ff3e3c4b</color>
+    <color name="color3e3c4c">#ff3e3c4c</color>
+    <color name="color3f3b4c">#ff3f3b4c</color>
+    <color name="color404040">#ff404040</color>
+    <color name="color413f4c">#ff413f4c</color>
+    <color name="color41404e">#ff41404e</color>
+    <color name="color464452">#ff464452</color>
+    <color name="color46a6ff">#ff46a6ff</color>
+    <color name="color474551">#ff474551</color>
+    <color name="color494756">#ff494756</color>
+    <color name="color4b4958">#ff4b4958</color>
+    <color name="color4e4d57">#ff4e4d57</color>
+    <color name="color4f4e5c">#ff4f4e5c</color>
+    <color name="color555460">#ff555460</color>
+    <color name="color565564">#ff565564</color>
+    <color name="color575567">#ff575567</color>
+    <color name="color585665">#ff585665</color>
+    <color name="color58bcff">#ff58bcff</color>
+    <color name="color5a575f">#ff5a575f</color>
+    <color name="color5c5a69">#ff5c5a69</color>
+    <color name="color61606b">#ff61606b</color>
+    <color name="color636465">#ff636465</color>
+    <color name="color666896">#ff666896</color>
+    <color name="color6a6877">#ff6a6877</color>
+    <color name="color6d35dd">#ff6d35dd</color>
+    <color name="color707070">#ff707070</color>
+    <color name="color75747f">#ff75747f</color>
+    <color name="color77286f">#ff77286f</color>
+    <color name="color8040ff_alpha30">#4c8040ff</color>
+    <color name="color808080">#ff808080</color>
+    <color name="color808080alpha50">#7f808080</color>
+    <color name="color8149f1">#ff8149f1</color>
+    <color name="color855bff">#ff855bff</color>
+    <color name="color8c8d91">#ff8c8d91</color>
+    <color name="color8f57ff">#ff8f57ff</color>
+    <color name="colorC03e3b4b">#c03e3b4b</color>
+    <color name="color_2b2938_100">#002b2938</color>
+    <color name="color_bg_topbar">#ff1b1926</color>
+    <color name="colora6a6a">#ffa6a6a6</color>
+    <color name="colora77cff">#ffa77cff</color>
+    <color name="colora8542ea">#ff8542ea</color>
+    <color name="colorc1a2ff">#ffc1a2ff</color>
+    <color name="colorcc09090d">#cc09090d</color>
+    <color name="colorccff1965">#ccff1965</color>
+    <color name="colord22060">#ffd22060</color>
+    <color name="colore1e1c2b">#ff1e1c2b</color>
+    <color name="colorf12e6e">#fff12e6e</color>
+    <color name="colorf12e6e80">#ccf12e6e</color>
+    <color name="colorf13f7f">#fff13f7f</color>
+    <color name="colorf4f4f4">#fff4f4f4</color>
+    <color name="colorf81a3f">#fff81a3f</color>
+    <color name="colorfe4176">#fffe4176</color>
+    <color name="colorff206f">#ffff206f</color>
+    <color name="colorff4582">#ffff4582</color>
+    <color name="colorff5287">#ffff5287</color>
+    <color name="colorff52a1">#ffff52a1</color>
+    <color name="com_facebook_blue">#ff3b5998</color>
+    <color name="com_facebook_button_background_color">#ff415dae</color>
+    <color name="com_facebook_button_background_color_disabled">#ffbdc1c9</color>
+    <color name="com_facebook_button_background_color_focused">#fffffffe</color>
+    <color name="com_facebook_button_background_color_focused_disabled">#ff84878c</color>
+    <color name="com_facebook_button_background_color_pressed">#ff2f477a</color>
+    <color name="com_facebook_button_background_color_selected">#ff7c8fc8</color>
+    <color name="com_facebook_button_border_color_focused">#ffdedee6</color>
+    <color name="com_facebook_button_login_silver_background_color">#fff4f6f8</color>
+    <color name="com_facebook_button_login_silver_background_color_pressed">#ffe9eaf0</color>
+    <color name="com_facebook_button_send_background_color">@color/com_facebook_messenger_blue</color>
+    <color name="com_facebook_button_send_background_color_pressed">#ff006fff</color>
+    <color name="com_facebook_device_auth_text">#ff797e87</color>
+    <color name="com_facebook_likeboxcountview_border_color">#ff6a7180</color>
+    <color name="com_facebook_likeboxcountview_text_color">#ff6a7180</color>
+    <color name="com_facebook_likeview_text_color">#ff6a7180</color>
+    <color name="com_facebook_messenger_blue">#ff0084ff</color>
+    <color name="com_facebook_share_button_text_color">#ffffffff</color>
+    <color name="comment_event_nor">#ff2b2931</color>
+    <color name="comment_event_press">#ff423f48</color>
+    <color name="comment_odd_nor">#ff26242c</color>
+    <color name="comment_odd_press">#ff423f48</color>
+    <color name="dark_background">#ff0e0e10</color>
+    <color name="dark_black">#ff1f1e23</color>
+    <color name="dialog_photo_mv_bg_color">#7f000000</color>
+    <color name="dialog_title_divider_gray">#ffd0d0d0</color>
+    <color name="dialog_title_red">#ffec5757</color>
+    <color name="divider_line">#ff1a181d</color>
+    <color name="divider_line_tab_top">#ff1a1a1e</color>
+    <color name="dot_gray">#ffaaaaaa</color>
+    <color name="dot_red">#ff555555</color>
+    <color name="friendstrends_headlist_tip_bg">#cc2b2938</color>
+    <color name="gray">#ffbfbfbf</color>
+    <color name="green">#ff00ff00</color>
+    <color name="grid_state_focused">#7f0e0e10</color>
+    <color name="grid_state_pressed">#7f0e0e10</color>
+    <color name="hint">#ffc8c8cd</color>
+    <color name="light_gray">#ff37353e</color>
+    <color name="list_cacheColorHint">#ff25232a</color>
+    <color name="list_divider">#ff37363d</color>
+    <color name="list_item_divider">#ff26242a</color>
+    <color name="list_item_press">#ff33313d</color>
+    <color name="lucency">#00000000</color>
+    <color name="media_feed_bg">#ff323039</color>
+    <color name="more_topic_item_black">#ff2b2931</color>
+    <color name="more_topic_item_gray">#ff35333b</color>
+    <color name="more_topic_item_press">#ff423f48</color>
+    <color name="pink">#fffa4d9f</color>
+    <color name="red">#ffff0000</color>
+    <color name="save_share_bg_color">#ff1a1825</color>
+    <color name="save_share_bottom_share_bar">#ff00b389</color>
+    <color name="save_share_bottom_share_bar_pressed">#ff00a077</color>
+    <color name="save_share_divider">#ff151418</color>
+    <color name="save_share_red_text">#fff81a3f</color>
+    <color name="text_color_chat_time">#33ffffff</color>
+    <color name="topic_btn_text">#ff73717d</color>
+    <color name="tv_popwindow_op_pressed">#aa0913df</color>
+    <color name="unlock_dialog_button">#ff23b47c</color>
+    <color name="view_popwindow_op_divider">#ff575757</color>
+    <color name="white">#ffffffff</color>
+    <color name="white00">#00ffffff</color>
+    <color name="white10">#1affffff</color>
+    <color name="white12">#1effffff</color>
+    <color name="white20">#33ffffff</color>
+    <color name="white25">#40ffffff</color>
+    <color name="white30">#4cffffff</color>
+    <color name="white35">#59ffffff</color>
+    <color name="white40">#66ffffff</color>
+    <color name="white50">#80ffffff</color>
+    <color name="white60">#99ffffff</color>
+    <color name="white70">#b3ffffff</color>
+    <color name="white75">#bfffffff</color>
+    <color name="white8">#14ffffff</color>
+    <color name="white80">#ccffffff</color>
+    <color name="white88">#e0ffffff</color>
+    <color name="white95">#f2ffffff</color>
+
+
+</resources>

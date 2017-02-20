@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#434156</color>
+    <color name="colorPrimaryDark">#272538</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- app主色调-->
+    <color name="main_color">#ff22202d</color>
+    <color name="toast_white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="toast_stroke_gray">#99d4d4d4</color>
+
+
+    <color name="background_tab_pressed">#6633B5E5</color>
+
+</resources>

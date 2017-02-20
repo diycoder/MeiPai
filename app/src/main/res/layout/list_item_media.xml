@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fresco="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/panel_content"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:descendantFocusability="blocksDescendants">
+
+    <com.facebook.drawee.view.SimpleDraweeView
+        android:id="@+id/image_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        fresco:placeholderImage="@drawable/bg_video_default"
+        fresco:placeholderImageScaleType="fitXY" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingLeft="8dp"
+        android:id="@+id/ll_header_container"
+        android:paddingRight="8dp"
+        android:layout_below="@id/image_view"
+        android:layout_marginTop="-12dp">
+
+        <RelativeLayout
+            android:layout_width="30dp"
+            android:layout_height="30dp">
+            <com.facebook.drawee.view.SimpleDraweeView
+                android:id="@+id/headerView"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                fresco:placeholderImage="@drawable/ic_default_user_head"
+                fresco:placeholderImageScaleType="centerCrop"
+                fresco:roundAsCircle="true"
+                fresco:roundingBorderColor="@color/transparent"
+                fresco:roundingBorderWidth="1dp" />
+            <ImageView
+                android:id="@+id/iv_verified"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentBottom="true"
+                android:layout_width="wrap_content"
+                android:src="@drawable/ic_v_meipai_60_and_72"
+                android:layout_height="wrap_content" />
+        </RelativeLayout>
+        <TextView
+            android:layout_width="wrap_content"
+            android:singleLine="true"
+            android:layout_weight="1"
+            android:textColor="@color/black65"
+            android:id="@+id/tv_name"
+            android:paddingTop="5dp"
+            android:layout_marginLeft="8dp"
+            android:textSize="12sp"
+            android:layout_gravity="bottom"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:id="@+id/tv_praiseCount"
+            android:textSize="10sp"
+            android:drawablePadding="3dp"
+            android:textColor="@color/black65"
+            android:layout_gravity="bottom|right"
+            android:drawableLeft="@drawable/ic_dislike_18x18"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+    <TextView
+        android:layout_width="wrap_content"
+        android:id="@+id/tv_describe"
+        android:singleLine="true"
+        android:textSize="12sp"
+        android:textColor="@color/white88"
+        android:layout_below="@id/ll_header_container"
+        android:layout_height="wrap_content" />
+</RelativeLayout>

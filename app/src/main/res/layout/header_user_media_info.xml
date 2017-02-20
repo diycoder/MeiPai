@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fresco="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="240dp">
+
+        <com.facebook.drawee.view.SimpleDraweeView
+            android:id="@+id/coverView"
+            android:layout_width="match_parent"
+            android:layout_height="240dp"
+            fresco:placeholderImageScaleType="centerCrop"
+            fresco:roundAsCircle="false"
+            fresco:roundingBorderColor="@color/transparent"
+            fresco:roundingBorderWidth="1dp" />
+
+        <com.facebook.drawee.view.SimpleDraweeView
+            android:id="@+id/headerView"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="60dp"
+            fresco:placeholderImage="@drawable/ic_default_user_head"
+            fresco:placeholderImageScaleType="centerCrop"
+            fresco:roundAsCircle="true"
+            fresco:roundingBorderColor="@color/transparent"
+            fresco:roundingBorderWidth="1dp" />
+
+        <LinearLayout
+            android:id="@+id/ll_fans_follow"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/headerView"
+            android:layout_centerHorizontal="true"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingBottom="8dp"
+            android:paddingTop="8dp">
+
+            <TextView
+                android:id="@+id/tv_fansCount"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingRight="5dp"
+                android:textColor="@color/white80"
+                android:textSize="@dimen/content_text_size" />
+
+            <Space
+                android:layout_width="0.5dp"
+                android:layout_height="30dp"
+                android:background="@color/white80" />
+
+            <TextView
+                android:id="@+id/tv_followCount"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="5dp"
+                android:textColor="@color/white80"
+                android:textSize="@dimen/content_text_size" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/ll_fans_follow"
+            android:layout_centerHorizontal="true"
+            android:textColor="@color/white80"
+            android:textSize="@dimen/content_text_size" />
+    </RelativeLayout>
+</LinearLayout>

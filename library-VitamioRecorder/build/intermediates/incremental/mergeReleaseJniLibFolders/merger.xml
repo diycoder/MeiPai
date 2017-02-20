@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\Android\person\MeiPai\library-VitamioRecorder\src\main\jniLibs"><file name="armeabi-v7a/libutility.so" path="E:\Android\person\MeiPai\library-VitamioRecorder\src\main\jniLibs\armeabi-v7a\libutility.so"/></source></dataSet><dataSet config="release"><source path="E:\Android\person\MeiPai\library-VitamioRecorder\src\release\jniLibs"/></dataSet></merger>
