@@ -37,4 +37,5 @@ public class IntegerDefault0Adapter implements JsonSerializer<Integer>, JsonDese
     public JsonElement serialize(Integer src, Type typeOfSrc, JsonSerializationContext context) {
         return new JsonPrimitive(src);
     }
+
 }
