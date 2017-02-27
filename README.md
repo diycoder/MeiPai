@@ -1,5 +1,5 @@
 
-# Retroft+MVP+RxJava    
+# Retrofit+RxJava+MVP
 美拍下载链接：
 [MeiPai](https://github.com/diycoder/MeiPai/blob/master/app/MeiPai_v1.0_2017-01-08_xiaomi.apk  )  
 博主利用业余时间写的一个仿美拍的App，用
